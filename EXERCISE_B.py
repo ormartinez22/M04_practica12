@@ -1,8 +1,12 @@
+#creating a function for our data as bookStore:
 def bookStore():
+#Now importing the json    
     import json
     """
-    
+    we are giving json to have a file with book as the key and 
+
     """
+#    
     data1 = {"book":[{"title":"Elif","cover":"Air","year":"2000","pages":"625"}]}
     data2 = {"book":[{"title":"Murat","cover":"Earth","year":"1982","pages":"982"}]}
     data3 = {"book":[{"title":"BKim","cover":"Water","year":"2012","pages":"514"}]}
